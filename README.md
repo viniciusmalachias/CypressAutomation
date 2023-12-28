@@ -6,13 +6,12 @@
 
 ## 🚀 Install the project
 
-Open TERMINAL and Write:
-Install project dependencies with: npm i
-Install the Cypress framework with: npm install cypress --save-dev
-intall all the dependencies with: npm install
+Install project dependencies with: **npm i**
+Install the Cypress framework with: **npm install cypress --save-dev**
+intall all the dependencies with: **npm install**
 
 ## Run the demo:
 
-1. To open the cypress framework, write on terminal: npx cypress open
-2. Choose the browser that you prefer to execute the tests and click "Start E2E Testing"
+1. To open the cypress framework, write on terminal: **npx cypress open**
+2. Choose the browser that you prefer to execute the tests and click **"Start E2E Testing"**
 3. Choose the feature that you want execute.
