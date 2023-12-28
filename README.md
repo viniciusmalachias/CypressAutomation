@@ -6,7 +6,7 @@
 
 ## 🚀 Install the project
 
-ON TERMINAL Write:
+Open TERMINAL and Write:
 Install project dependencies with: npm i
 Install the Cypress framework with: npm install cypress --save-dev
 intall all the dependencies with: npm install
